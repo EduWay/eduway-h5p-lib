@@ -1,0 +1,25 @@
+{
+  "name": "eduway-h5p-lib",
+  "version": "0.0.1",
+  "description": "Fork of H5P Library",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduWay/eduway-h5p-lib.git"
+  },
+  "author": "Guro Bokum <jiojiajiu@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/EduWay/eduway-h5p-lib/issues"
+  },
+  "homepage": "https://github.com/EduWay/eduway-h5p-lib#readme",
+  "peerDependencies": {
+    "jquery": "^1.12.4"
+  }
+}
